@@ -1,0 +1,50 @@
+body {
+  background-color: #4682B4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://www.cnnbrasil.com.br/wp-content/uploads/2021/06/21995_47022457A67E1FF5.jpg");
+}
+
+div {
+  border: 1px solid #EE82EE;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 15px;
+  font-size: 24px;
+}
+
+button{
+	border: 3px solid #4B0082;
+	border-radius: 12px;
+	font-size: 24px;
+	margin: 15px;
+	padding: 5px;
+}
+
+input{
+    width:75px;
+    padding:5px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+#container{
+	width: 900px;
+
+}
+
+#resposta{
+	 width: 400px;
+}
+.titulo{
+	background-color: #8A2BE2;
+	color: white;
+	font-size: 36px;
+}
+
+
+.texto{
+	margin: 15px;
+}
+
